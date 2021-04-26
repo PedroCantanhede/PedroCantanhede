@@ -1,4 +1,4 @@
-<img align="right" src="img/developer.svg" width="350"/>
+<img align="right" src="img/vetor.png" width="350"/>
 
 ### Hello! Welcome to my profile. 👋
 
