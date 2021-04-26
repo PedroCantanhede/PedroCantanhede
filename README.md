@@ -22,13 +22,13 @@ My name is Pedro Cantanhêde, I'm 20 years old. Currently living in Brazil. I'm 
 
 <h3 align="center">💬 Follow me!</h3>
 <a href="https://www.linkedin.com/in/pedro-cantanhede/">
-    <img height="20" src="img/linkedin.png" alt="Linkedin"/>
+    <img height="90" src="img/linkedin.png" alt="Linkedin"/>
 </a>
 <a href="https://www.instagram.com/pedro_cantanhede/">
-    <img height="20" src="img/instagram.png" alt="Instagram"/>
+    <img height="90" src="img/instagram.png" alt="Instagram"/>
 </a>
 <a href="">
-    <img height="20" src="img/youtube.png" alt="Youtube"/>
+    <img height="90" src="img/youtube.png" alt="Youtube"/>
 </a>
 
 <!--
