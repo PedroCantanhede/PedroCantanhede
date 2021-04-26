@@ -1,4 +1,4 @@
-<img align="right" src="img/developer.svg" width="350"/>
+<img align="right" src="img/vetor.png" width="350"/>
 
 ### Hello! Welcome to my profile. 👋
 
@@ -8,27 +8,29 @@ My name is Pedro Cantanhêde, I'm 20 years old. Currently living in Brazil. I'm 
 
 <h3>🚀 Languages and Tools:</h3>
 
-<img height="20" src="img/html.png" alt="HTML"/>
-<img height="20" src="img/css.png" alt="CSS"/>
-<img height="20" src="img/js.png" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
 
 <h3>✍🏻 I wanna learn:</h3>
-<img height="20" src="img/ts.png" alt="TypeScript"/>
-<img height="20" src="img/react.png" alt="React JS"/>
-<img height="20" src="img/node.png" alt="Node JS"/>
-<img height="20" src="img/next.png" alt="Next JS"/>
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node JS"/>
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React JS"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS"/>
 
 ---
 
 <h3 align="center">💬 Follow me!</h3>
 <a href="https://www.linkedin.com/in/pedro-cantanhede/">
-    <img height="90" src="img/linkedin.png" alt="Linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 <a href="https://www.instagram.com/pedro_cantanhede/">
-    <img height="90" src="img/instagram.png" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 <a href="">
-    <img height="90" src="img/youtube.png" alt="Youtube"/>
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/>
 </a>
 
 <!--
