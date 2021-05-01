@@ -2,7 +2,7 @@
 
 ## Hello! Welcome to my profile. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<img align="right" src="img/vetor.png" width="370"/>
+<img align="right" src="img/vetor.png" width="330"/>
 
 My name is Pedro Cantanhêde, I'm 20 years old. Currently living in Brazil. I'm studying Information Systems at CEFET-RJ and my goal is to master HTML, CSS and JavaScript soon! I am looking for improvement in my skills and myself as a developer.
 
