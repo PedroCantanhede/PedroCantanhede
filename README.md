@@ -10,10 +10,11 @@ My name is Pedro Cantanhêde, I'm 20 years old. Currently living in Brazil. I'm 
 
 ### 🚀 Languages and Tools:
 
-[<img align="left" alt="HTML" width="28px" src="img/html.png" />][html]
-[<img align="left" alt="CSS" width="28px" src="img/css.png" />][css]
-[<img align="left" alt="JS" width="28px" src="img/js.png" />][js]
-[<img align="left" alt="Design" width="28px" src="img/design.png" />][design]
+[<img align="left" alt="HTML" width="23px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />][html]
+[<img align="left" alt="CSS" width="23px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />][css]
+[<img align="left" alt="JS" width="23px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][js]
+[<img align="left" alt="Visual Studio Code" width="23px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudiocode]
+[<img align="left" alt="Visual Studio Code" width="23px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" />][photoshop]
 
 <br >
 <br >
@@ -56,7 +57,8 @@ My name is Pedro Cantanhêde, I'm 20 years old. Currently living in Brazil. I'm 
 [html]: https://www.w3schools.com/html/
 [css]: https://www.w3schools.com/css/
 [js]: https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
-[design]: https://www.adobe.com/
+[visualstudiocode]: https://code.visualstudio.com/
+[photoshop]: https://www.adobe.com/br/products/photoshop.html?sdid=KQPOM&mv=search&ef_id=Cj0KCQjw1a6EBhC0ARIsAOiTkrGLkp6SKPxcWleMGLfeWbnLeiGt3Don953-sqpycLIV-mhXmIAR4FsaAm1LEALw_wcB:G:s&s_kwcid=AL!3085!3!459896307547!e!!g!!photoshop!188192502!10077842982&gclid=Cj0KCQjw1a6EBhC0ARIsAOiTkrGLkp6SKPxcWleMGLfeWbnLeiGt3Don953-sqpycLIV-mhXmIAR4FsaAm1LEALw_wcB
 
 [typescript]: https://www.typescriptlang.org/
 [mongodb]: https://www.mongodb.com/2
