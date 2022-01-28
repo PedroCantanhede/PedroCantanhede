@@ -4,7 +4,7 @@
 
 <img align="right" src="img/vetor.png" width="330"/>
 
-My name is Pedro Cantanhêde, I'm 20 years old. Currently living in Brazil. I'm studying Information Systems at CEFET-RJ and my goal is to master HTML, CSS and JavaScript soon! I am looking for improvement in my skills and myself as a developer.
+My name is Pedro Cantanhêde, I'm 21 years old. Currently living in Brazil. I'm studying Information Systems at CEFET-RJ and my goal is to master HTML, CSS and JavaScript soon! I am looking for improvement in my skills and myself as a developer.
 
 "It's not how much time you have, it's how you use it." 💭
 
