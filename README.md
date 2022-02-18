@@ -49,9 +49,12 @@ My name is Pedro Cantanhêde, I'm 21 years old. Currently living in Brazil. I'm 
 <br >
 
 #### Github Stats
-
-![Pedro Cantanhêde GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroCantanhede&theme=radical&show_icons=true)
-![Pedro Cantanhêde GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCantanhede&layout=compact&langs_count=7&theme=radical)
+  
+<div>
+  <a href="https://github.com/PedroCantanhede">
+  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=PedroCantanhede&theme=radical&show_icons=true"/>
+  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCantanhede&layout=compact&langs_count=7&theme=radical"/>
+</div>  
 
 </details>
 
