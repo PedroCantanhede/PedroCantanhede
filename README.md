@@ -14,8 +14,6 @@ My name is Pedro Cantanhêde, I'm 24 years old, currently residing in Brazil. I 
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="23px" alt="React JS"/>][react]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20px" alt="TypeScript" />][typescript]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="23px" alt="SASS"/>][sass]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="23px" alt="Node JS"/>][nodejs]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="23px" alt="MongoDB"/>][mongodb]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="23px" alt="Figma"/>][figma]
 [<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="23px" alt="Azure"/>][azure]
 
