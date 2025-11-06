@@ -4,7 +4,7 @@
 
 <img align="right" src="img/vetor.png" width="330"/>
 
-My name is Pedro Cantanhêde, I'm 24 years old, currently residing in Brazil. I work as a Front-End developer and began my academic journey in 2020 at CEFET/RJ. My primary technologies include Angular, TypeScript, and SCSS.
+My name is Pedro Cantanhêde, I'm 25 years old, currently residing in Brazil. I work as a Front-End developer and began my academic journey in 2020 at CEFET/RJ. My primary technologies include Angular, TypeScript, and SCSS.
 
 "It's not how much time you have, it's how you use it." 💭
 
