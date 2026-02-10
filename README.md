@@ -28,10 +28,10 @@
 
 # Hey, I'm Pedro Cantanhêde <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/>
 
-Hi! I'm Pedro Cantanhêde, a Computer Technician from Senac/RJ and an Information Systems student at CEFET/RJ.  
-Since I was young, I’ve always been passionate about **design, technology and problem solving**, so I decided to combine all three to build experiences that truly make people’s lives easier.
+Hi! I'm Pedro Cantanhêde, a Computer Technician from Senac/RJ and an Information Systems graduate from CEFET/RJ.  
+Passionate about **design, technology and problem solving**, I focus on building digital experiences that are clean, accessible and meaningful.
 
-I love turning ideas into **clean, usable and inclusive interfaces**, crafting systems that scale, and constantly evolving towards becoming a **Fullstack Developer**.
+I enjoy turning ideas into **scalable interfaces and design systems**, creating solutions that truly make people’s lives easier, and constantly evolving towards becoming a **Fullstack Developer**.
 
 💭 *"It's not how much time you have, it's how you use it."*
 
