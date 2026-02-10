@@ -1,66 +1,72 @@
+<!-- ========= BANNER ========= -->
+<p align="center">
+  <img src="img/banner github.jpg" alt="Pedro Cantanhêde banner" />
+</p>
 
+# Hey, I'm Pedro Cantanhêde 👋
 
-## Hello! Welcome to my profile. 👋
+Front-End Developer focused on **accessibility, design systems and scalable interfaces**.
 
-<img align="right" src="img/vetor.png" width="330"/>
+I love turning ideas into clean, usable and inclusive experiences.
 
-My name is Pedro Cantanhêde, I'm 25 years old, currently residing in Brazil. I work as a Front-End developer and began my academic journey in 2020 at CEFET/RJ. My primary technologies include Angular, TypeScript, and SCSS.
-
-"It's not how much time you have, it's how you use it." 💭
-
-### 🚀 Languages and Tools:
-
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="23px" alt="Angular"/>][angular]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="23px" alt="React JS"/>][react]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="20px" alt="TypeScript" />][typescript]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="23px" alt="SASS"/>][sass]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="23px" alt="Figma"/>][figma]
-[<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="23px" alt="Azure"/>][azure]
-
-
-<br >
-<br >
+💭 *"It's not how much time you have, it's how you use it."*
 
 ---
 
+## 🚀 > tech_stack
 
-### 💬 Follow me!
-[<img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin"/>][linkedin]
-[<img align="left" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/>][instagram]
-[<img align="left" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="Youtube"/>][youtube]
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-000000?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-000000?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-000000?style=for-the-badge&logo=jasmine&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white)
 
-<br >
-<br >
+---
 
-<details>
-<summary>
-  More About Me
-</summary>
-<br >
+### ⚙️ Backend
+![.NET](https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=dotnet&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white)
 
-#### Github Stats
-  
-<div>
-  <a href="https://github.com/PedroCantanhede">
-  <img height="178em" src="https://github-readme-stats.vercel.app/api?username=PedroCantanhede&theme=radical&show_icons=true"/>
-  <img height="178em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCantanhede&layout=compact&langs_count=7&theme=radical"/>
-</div>  
+---
 
-</details>
+### ☁️ DevOps • Cloud • Tools
+![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
 
+---
 
-[angular]: https://angular.io/docs
-[react]: https://pt-br.reactjs.org/
-[typescript]: https://www.typescriptlang.org/
-[sass]: https://sass-lang.com/
-[jasmine]: https://jasmine.github.io/
-[nodejs]: https://nodejs.org/en/
-[mongodb]: https://www.mongodb.com/2
-[figma]: https://www.figma.com/
-[azure]: https://learn.microsoft.com/en-us/azure/?product=popular
+## 🌍 Connect with me
 
+<div align="left">
 
+<a href="https://www.linkedin.com/in/pedro-cantanhede/">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-[youtube]: https://www.youtube.com/
-[instagram]: https://www.instagram.com/pedro_cantanhede/
-[linkedin]: https://www.linkedin.com/in/pedro-cantanhede/
+<a href="https://www.pedro-cantanhede.dev/">
+  <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@pedro_cantanhede">
+  <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 📊 Stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=PedroCantanhede&show_icons=true&bg_color=000000&title_color=ffa800&icon_color=ffa800&text_color=ffffff&border_color=ffa800"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCantanhede&layout=compact&bg_color=000000&title_color=ffa800&text_color=ffffff&border_color=ffa800"/>
+</p>
