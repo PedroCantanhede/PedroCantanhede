@@ -28,8 +28,6 @@
 
 # Hey, I'm Pedro Cantanhêde <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28px"/>
 
-Front-End Developer focused on **accessibility, design systems and scalable interfaces**.
-
 Hi! I'm Pedro Cantanhêde, a Computer Technician from Senac/RJ and an Information Systems student at CEFET/RJ.  
 Since I was young, I’ve always been passionate about **design, technology and problem solving**, so I decided to combine all three to build experiences that truly make people’s lives easier.
 
